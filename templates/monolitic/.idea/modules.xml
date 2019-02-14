@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/monolitic.iml" filepath="$PROJECT_DIR$/monolitic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/monolitic.buildSrc.test.iml" />
     </modules>
   </component>
 </project>

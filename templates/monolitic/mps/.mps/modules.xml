@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/example.language/example.language.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/example.language/runtime/example.language.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/example.language.tests/example.language.tests.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/example.mps.build.meta/example.mps.build.meta.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/example.mps.build/example.mps.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
